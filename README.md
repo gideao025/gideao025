@@ -1,4 +1,4 @@
-# Olá, eu sou o Gideão 👋
+# Olá, eu sou o Gideão Lucas 👋
 
 Desenvolvedor backend (Java/Spring) com pós-graduação em **Arquitetura e Desenvolvimento Java** (FIAP PosTech). Gosto de sistemas bem desenhados, documentados e que rodam em produção: decisões registradas, diagramas, testes e infraestrutura reproduzível.
 
