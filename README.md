@@ -17,12 +17,13 @@ Desenvolvedor backend (Java/Spring) com pós-graduação em **Arquitetura e Dese
 - **Backend:** Java 21, Spring Boot, Spring Security + JWT, GraphQL, REST, Flyway, .NET 8 (Dapper)
 - **Mensageria e dados:** RabbitMQ, PostgreSQL, MySQL
 - **Frontend:** Angular, React
-- **Infra:** Docker/Compose, GitHub Actions, Ansible, Proxmox (homelab provisionado como código)
+- **Infra:** Docker/Compose, GitHub Actions, Terraform, Ansible, Proxmox (homelab provisionado como código), OpenFaaS/faasd, Kong, Keycloak, NATS
 
 ## Projetos em destaque
 
 | Projeto | O que mostra |
 |---|---|
+| [**tec-challeng-4**](https://github.com/gideao025/tec-challeng-4) | Plataforma serverless de feedback de aulas numa nuvem privada (Proxmox): faasd com scale-to-zero, Kong + Keycloak, NATS JetStream, ScyllaDB Alternator e MinIO. Java sem Spring, Terraform, observabilidade como código e 10 ADRs. |
 | [**tec-challenge-3**](https://github.com/gideao025/tec-challenge-3) | Backend hospitalar com 2 microsserviços (cada um com seu banco), JWT por perfil, GraphQL e eventos com RabbitMQ. Diagramas Mermaid e seção de decisões de arquitetura. |
 | [**financas-pessoais**](https://github.com/gideao025/financas-pessoais) | Controle financeiro em produção: Java + Angular, perfis dev/hmlg/prd, hardening de segurança, docs de deploy, análise e backlog priorizado. |
 | [**FIAP_GP18 (GastroHub)**](https://github.com/gideao025/FIAP_GP18) | Gestão de usuários com JWT, Argon2id, Swagger e 40 testes automatizados. |
