@@ -36,4 +36,4 @@ Desenvolvedor backend (Java/Spring) com pós-graduação em **Arquitetura e Dese
 
 ## Contato
 
-[GitHub](https://github.com/gideao025) · gideaolu025@gmail.com
+[GitHub](https://github.com/gideao025) · contato@gideaolucas.com.br
